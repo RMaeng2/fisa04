@@ -48,7 +48,9 @@ age = 26
 
 '''![화면에 출력될 문자](링크)'''
 링크가 깨졌을 때 나올 설명문
-![농담곰]([www.naver.com](https://pbs.twimg.com/profile_images/1519730490919747584/aBNirN8-_400x400.jpg))
+![농담곰][www.naver.com](https://pbs.twimg.com/profile_images/1519730490919747584/aBNirN8-_400x400.jpg)
+
+![농담곰](https://i.pinimg.com/550x/c5/ae/3a/c5ae3a02a869f7381797046f59854d54.jpg)
 
 print('hello')
 
