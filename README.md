@@ -46,6 +46,10 @@ age = 26
 '''[화면에 출력될 문자](링크)'''
 [네이버](www.naver.com)
 
+'''![화면에 출력될 문자](링크)'''
+링크가 깨졌을 때 나올 설명문
+![농담곰]([www.naver.com](https://pbs.twimg.com/profile_images/1519730490919747584/aBNirN8-_400x400.jpg))
+
 print('hello')
 
 add third new line
